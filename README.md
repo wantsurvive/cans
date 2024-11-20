@@ -7,4 +7,5 @@
 - [임베디드 8 주차](https://github.com/wantsurvive/cans/wiki/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-8th)
 - [임베디드 9 주차](https://github.com/wantsurvive/cans/wiki/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-9th)
 - [임베디드 10 주차](https://github.com/wantsurvive/cans/wiki/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-10th)
-- 
+- [임베디드 11주차](https://github.com/wantsurvive/cans/wiki/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-11th)
+- [프로젝트 1주차]
